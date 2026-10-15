@@ -10,6 +10,3 @@
 
 Ноутбуки запускаются в Jupyter/Kaggle после подключения датасетов и установки Python-библиотек. Для `main.py` требуются TensorFlow/Keras, librosa, python-telegram-bot и дополнительные библиотеки из импортов. Задайте `BOT_TOKEN` и `DB_DSN` через переменные окружения; модель и датасеты необходимо подготовить отдельно.
 
-## Источник
-
-[Исходный проект CandyGoose](https://github.com/CandyGoose/Neurotechnology_and_afficient_computing) · использование с разрешения автора.
