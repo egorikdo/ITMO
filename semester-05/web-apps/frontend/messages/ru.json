@@ -1,0 +1,63 @@
+{
+  "test": {
+    "test": "Тест"
+  },
+  "search": {
+    "searchBoards": "Поиск",
+    "notFound": "Ничего не найдено",
+    "tryAnother": "попробуй найти что-нибудь другое"
+  },
+  "utils": {
+    "welcome": "Добро пожаловать в itmo.board",
+    "newBoard": "Новая доска",
+    "createOrganization": "cоздай или выбери организацию, чтобы начать",
+    "createOrganizationButton": "Создать команду",
+    "inviteMembers": "Пригласить участников",
+    "styles": "Стили"
+  },
+  "tools": {
+    "bringToFront": "Переместить наверх",
+    "bringToBack": "Переместить вниз",
+    "moveForward": "Поставить ближе",
+    "moveBackward": "Поставить дальше",
+    "delete": "Удалить",
+    "pen": "Карандаш",
+    "select": "Выбор",
+    "more": "Больше",
+    "rectangle": "Квадрат",
+    "ellipse": "Эллипс",
+    "stickyNote": "Заметка",
+    "text": "Текст",
+    "image": "Изображение",
+    "lineWidth": "Толщина линии",
+    "transparentFill": "Прозрачный фон",
+    "width": "Ширина",
+    "height": "Высота",
+    "font": "Шрифт",
+    "fontSize": "Размер шрифта",
+    "undo": "Отменить",
+    "redo": "Повторить",
+    "uploadOrPasteAnImage": "Загрузите или вставьте изображение",
+    "dragDropLabel": "Перетащите изображение сюда",
+    "orLabel": "или",
+    "selectFromComputer": "Выберите с компьютера",
+    "imageUrl": "URL изображения",
+    "loadButton": "Загрузить",
+    "copyLink": "Скопировать ссылку",
+    "rename": "Переименовать",
+    "download": "Скачать",
+    "downloadAsSVG": "Скачать как SVG",
+    "downloadAsPNG": "Скачать как PNG",
+    "viewOnly": "Только просмотр",
+    "editMode": "Режим редактирования",
+    "boards": "На главную",
+    "menu": "Меню",
+    "you": "Вы",
+    "teammate": "Участник",
+    "further": "Далее"
+  },
+  "Metadata": {
+    "sign-in": "Вход",
+    "sign-up": "Регистрация"
+  }
+}

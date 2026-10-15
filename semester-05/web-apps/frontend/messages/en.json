@@ -1,0 +1,63 @@
+{
+  "test": {
+    "test": "test"
+  },
+  "search": {
+    "searchBoards": "Search boards",
+    "notFound": "No results found",
+    "tryAnother": "try searching for something else"
+  },
+  "utils": {
+    "welcome": "Welcome to itmo.board",
+    "newBoard": "New board",
+    "createOrganization": "Create or select an organization to get started",
+    "createOrganizationButton": "Create an organization",
+    "inviteMembers": "Invite members",
+    "styles": "Styles"
+  },
+  "tools": {
+    "bringToFront": "Bring To Front",
+    "bringToBack": "Bring To Back",
+    "moveForward": "Move Forward",
+    "moveBackward": "Move Backward",
+    "delete": "Delete",
+    "pen": "Pen",
+    "select": "Select",
+    "more": "More",
+    "rectangle": "Rectangle",
+    "ellipse": "Ellipse",
+    "stickyNote": "Sticky Note",
+    "text": "Text",
+    "image": "Image",
+    "lineWidth": "Line width",
+    "transparentFill": "Transparent fill",
+    "width": "Width",
+    "height": "Height",
+    "font": "Font",
+    "fontSize": "Font size",
+    "undo": "Undo",
+    "redo": "Redo",
+    "uploadOrPasteAnImage": "Upload or paste an image",
+    "dragDropLabel": "Drag & drop image here",
+    "orLabel": "or",
+    "selectFromComputer": "Select from computer",
+    "imageUrl": "Image URL",
+    "loadButton": "Load",
+    "copyLink": "Copy link",
+    "rename": "Rename",
+    "download": "Download",
+    "downloadAsSVG": "Download as SVG",
+    "downloadAsPNG": "Download as PNG",
+    "viewOnly": "View only",
+    "editMode": "Edit mode",
+    "boards": "Go To Boards",
+    "menu": "Menu",
+    "you": "You",
+    "teammate": "Teammate",
+    "further": "Further"
+  },
+  "Metadata": {
+    "sign-in": "Sign in",
+    "sign-up": "Sign up"
+  }
+}
